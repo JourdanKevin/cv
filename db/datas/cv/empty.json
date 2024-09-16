@@ -1,0 +1,56 @@
+{
+    "name": "",
+    "birth" : "",
+    "photo" : "",
+    "poste" : "",
+    "tel" : "",
+    "adresse" : "",
+    "permis" : "",
+    "email" : "",
+    "links" : [
+        {
+            "name" : "",
+            "icon" : "",
+            "link" : ""
+        }
+    ],
+    "skills" : [
+        {
+            "title" : "",
+            "skills" : [
+
+            ]
+        }
+    ],
+    "xps" : [
+        {
+            "name" : "",
+            "year" : "",
+            "descriptions" : [
+                {
+                    "description" :  "",
+                    "info" : [
+
+                    ]
+                }
+            ]
+        }
+    ],
+    "formation" : [
+        {
+            "name" : "",
+            "year" : "",
+            "descriptions" : [
+                {
+                    "description" :  "",
+                    "info" : [
+
+                    ]
+                }
+            ]
+        }
+    ],
+    "loisirs" : [
+
+    ]
+}

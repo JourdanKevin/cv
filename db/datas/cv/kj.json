@@ -1,0 +1,246 @@
+{
+    "name": "Kevin JOURDAN",
+    "birth" : "26/01/1995",
+    "photo" : "",
+    "poste" : "Développeur Web",
+    "tel" : "07 66 33 99 34",
+    "adresse" : "3 rue du pont,",
+    "postalCode" : "92160 Antony",
+    "permis" : "Permis B",
+    "email" : "jourdan.kevin@outlook.fr",
+    "soft" : "Autonome, polyvalent, proactif",
+    "github_link" : "https://github.com/JourdanKevin",
+    "github_show" : "github.com/JourdanKevin",
+    "skills" : [
+        {
+            "title" : "Compétences",
+            "skills" : [
+                {
+                    "name" : "Python 3",
+                    "note" : 5
+                },
+                {
+                    "name" : "Selenium",
+                    "note" : 3
+                },
+                {
+                    "name" : "Flask",
+                    "note" : 3
+                },
+                {
+                    "name" : "HTML/CSS",
+                    "note" : 4
+                },
+                {
+                    "name" : "PHP",
+                    "note" : 4
+                },
+                {
+                    "name" : "Symfony",
+                    "note" : 3
+                },
+                {
+                    "name" : "JavaScript",
+                    "note" : 4
+                },
+                {
+                    "name" : "TypeScript",
+                    "note" : 2
+                },
+                {
+                    "name" : "Node JS",
+                    "note" : 3
+                },
+                {
+                    "name" : "Vue JS",
+                    "note" : 3
+                },
+                {
+                    "name" : "React JS",
+                    "note" : 1
+                },
+                {
+                    "name" : "VBA",
+                    "note" : 3
+                },
+                {
+                    "name" : "PowerShell",
+                    "note" : 2
+                },
+                {
+                    "name" : "Docker",
+                    "note" : 2
+                },
+                {
+                    "name" : "Git",
+                    "note" : 3
+                },
+                {
+                    "name" : "MySQL",
+                    "note" : 3
+                },
+                {
+                    "name" : "PgSQL",
+                    "note" : 3
+                },
+                {
+                    "name" : "SQLServer",
+                    "note" : 3
+                },
+                {
+                    "name" : "SQL",
+                    "note" : 3
+                },
+                {
+                    "name" : "Linux",
+                    "note" : 3
+                }
+            ]
+        },
+        {
+            "title" : "Logiciels",
+            "skills" : [
+                {
+                    "name" : "Pack office (Excel,Word, PowerPoint)",
+                    "note" : 4
+                },
+                {
+                    "name" : "Visual Studio Code",
+                    "note" : 3
+                },
+                {
+                    "name" : "DBeaver",
+                    "note" : 3
+                }
+            ]
+        },
+        {
+            "title": "Langues",
+            "skills":[
+                {
+                    "name" : "Anglais : 490 TOEIC (2021)"
+                }
+            ]
+        },
+        {
+            "title": "Loisirs",
+            "skills":[
+                {
+                    "name" : "Art vidéo ludique (séries, jeux vidéo)"
+                },
+                {
+                    "name" : "JDR (MJ)"
+                },
+                {
+                    "name" : "Montage d'ordinateurs, hardware, tech"
+                },
+                {
+                    "name" : "Auto-apprentissage, projets perso"
+                }
+            ]
+        }
+    ],
+    "xps" : [
+        {
+            "names" : ["Développeur Python et Web à Atol Les Opticiens -","92160 Antony"],
+            "year" : "Fév 2022/sept 2023",
+            "descriptions" : [
+                {
+                    "description" :  "Développement web Symfony et Vue JS :",
+                    "info" : [
+                        "Création d'un questionnaire d'évaluation des fournisseurs et d'un jeu concours réutilisable"   
+                    ]
+                },
+                {
+                    "description" :  "Développement Python3 :",
+                    "info" : [
+                        "Selenium | Pandas : automatisation et scrapping",
+                        "Installation et intégration d'un modèle d'IA",
+                        "Flask"
+                    ]
+                },
+                {
+                    "description" :  "Développement api Node JS :",
+                    "info" : [
+                        "TypeScript/TypeORM/Node JS",
+                        "Conception, mise en place de bases de données SQLServer",
+                        "Docker"
+                    ]
+                }
+            ],
+            "technique" : ["Python 3", "Selenium", "Flask", "PHP", "Symfony", "JavaScript", "Vue JS", "Node JS", "TypeScript", "SQLServer" ]
+        },
+        {
+            "names" : ["Développeur VBA au centre des prestations financières (CPFi) à la DEPAFI au sein du Ministère de l’Intérieur - 75012 PARIS"],
+            "year" : "2020/2021",
+            "descriptions" : [
+                {
+                    "description" :  "Développement d’application/macro en VBA sur Excel",
+                    "info" : [
+
+                    ]
+                },
+                {
+                    "description" :  "Développement script en PowerShell",
+                    "info" : [
+
+                    ]
+                },
+                {
+                    "description" :  "Proposition de projet compilant plusieurs applications VBA en application web en Node JS/React JS ",
+                    "info" : [
+
+                    ]
+                }
+            ],
+            "technique" : ["VBA", "PowerShell", "Excel"]
+        },
+        {
+            "names" : ["Développeur Python et Web aux Laboratoires Industriels", "G. PICHOT - 63880 LE BRUGERON"],
+            "year" : "2018/2020",
+            "descriptions" : [
+                {
+                    "description" :  "Maintenance du parc informatique",
+                    "info" : [
+
+                    ]
+                },
+                {
+                    "description" :  "Développement d’applications dans le projet d’industrialisation 4.0 : ",
+                    "info" : [
+                        "Python 3 : applications exécutées sur des Raspberry 3B+ et A+",
+                        "React JS / Node JS : applications web",
+                        "Conception, mise en place de bases de données PgSQL",
+                        "Docker"
+                    ]
+                }
+            ], 
+            "technique" : ["Python 3", "React", "JavaScript", "PgSQL", "Git"]
+        }
+    ],
+    "formations" : [
+        {
+            "names" : ["Master Expert digital en alternance à la Digital School of Paris","à Vincennes : Titre RNCP niveau 7 / Bac + 5 (OBTENU)"],
+            "year" : "2022/2024",
+            "descriptions" : [
+            {
+                "description" :  "Projet fin d'étude : Symfony | Vue JS | Webpack | SCSS | Docker | AWS",
+                "info" : [
+
+                ]
+            }
+        ]
+        },
+        {
+            "names" : ["License développement Web, Mobile et Cybersécurité en alternance", "à l’UFA Charles de Foucauld Paris 18e : Titre RNCP niveau 6 / BAC + 3 (OBTENU)"],
+            "year" : "2020/2021"
+        },
+        {
+            "names" : ["BTS Systèmes Numériques option Informatique et Réseaux (SNIR)", "en alternance au CFAI de Cournon-d'Auvergne : Titre RNCP niveau 5 / BAC + 2 (OBTENU)"],
+            "year" : "2018/2020"
+        }
+    ],
+    "loisirs" : [
+
+    ]
+}
